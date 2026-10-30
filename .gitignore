@@ -1,13 +1,11 @@
 /vendor
 /bootstrap/cache.php
-.env
 /node_modules
 /public/hot
 /public/storage
 /storage/*.key
 /vendor
 /.idea
-/.vscode
 /.vagrant
 
 Homestead.json
@@ -18,3 +16,4 @@ yarn-error.log
 .idea/
 updates/
 oldfeb12.zip
+config.bat
